@@ -15,6 +15,9 @@ A simple Python‑based command‑line task manager that helps you add, organize
 ### Prerequisites
 
 - Python 3.7 or higher installed on your machine.
+```bash
+python --version
+```
 
 
 ### 1. Clone the repository
